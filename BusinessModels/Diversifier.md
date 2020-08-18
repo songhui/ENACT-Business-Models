@@ -23,7 +23,7 @@ This page contains the business model for the Diversifier tool. The ENACT Divers
     </td>
     <td rowspan="1">
       <p>
-        Needs deployment and maintenance of software applications on a large fleet of IoT device sets. Needs to diversify the software application among the fleet.
+        Needs agile and continous deployment and maintenance of software applications on a large fleet of IoT device sets. Needs to diversify the software application among the fleet according to the different contexts of the individual devices.
 
 </p>
     </td>
@@ -34,7 +34,7 @@ This page contains the business model for the Diversifier tool. The ENACT Divers
     <td rowspan="1">
       <p>
         
-Current solutions: Current solutions: (i) Existing deployment tools such as Ansible and GeneSIS on targeting at single IoT device sets, but not a large number of similar device sets (IoT fleet). (ii) fleet management tools or platforms, such as Azure IoT Hub, Balena, etc., do not support diversity managemnet among the fleet.
+Current solutions: Current solutions: (i) Existing deployment tools such as Ansible and GeneSIS on targeting at single IoT device sets, but not a large number of similar device sets (IoT fleet). (ii) Fleet management tools or platforms, such as Azure IoT Hub, Balena, etc., requires manual assigment of software variants into devices. (iii) Orchestration tools, such as Kubernetes, automatically assign software components to physical nodes within a cluster, but ignores the differences between nodes.
 
   </p>
     </td>
@@ -61,7 +61,7 @@ Current solutions: Current solutions: (i) Existing deployment tools such as Ansi
 <ul>
 <li> Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: Consultancy and new projects  </li>
 
-<li>Technology and knowledge transfer: Acquire new projects with industry and government to transfer the knowledge and technology gained during former projects. Way: open source community </li>
+<li>Technology and knowledge transfer: Bilateral projects for companies or other potential users to apply and improve the tools. Way: open source community </li>
 
  </p>
     </td>
@@ -70,7 +70,7 @@ Current solutions: Current solutions: (i) Existing deployment tools such as Ansi
     <td rowspan="1">
       <b>IPR Background </b> </td>
     <td rowspan="1">
-      <p></p>
+      <p>N/A</p>
     </td>
       </tr>
    <tr>
@@ -101,7 +101,7 @@ Current solutions: Current solutions: (i) Existing deployment tools such as Ansi
     <td rowspan="1">
       <p>
      <ul>   
-       <li> 2 proposals for research projects or bi-lateral project with industry are submitted</li>
+       <li> 2 proposals for research projects or bi-lateral project with industry are submitted. The FLEET project funded by the Research Council of Norway has started. Two proposals submitted.</li>
 
 <li> Code delivered on a public repository (e.g., github, gitlab) together with documentation and tutorials. Open source communities have been contacted.</li>
 
